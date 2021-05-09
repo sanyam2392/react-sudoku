@@ -124,8 +124,31 @@ Button:hover {
 .stopwatch {
   color:black;
   font-size:50px;
-  position: absolute;
-  top:70%;
-  right:22.5%;
+  position: relative;
+  bottom:130px;
+  left:73%;
+}
+
+@media  (min-width: 1200px){
+  .stopwatch {
+    left:66%;
+  }
+}
+@media  (min-width: 600px) and (max-width: 800px){
+  .stopwatch {
+    left:80%;
+  }
+}
+
+@media  (min-width: 400px) and (max-width: 600px){
+  .stopwatch {
+    left:105%;
+  }
+}
+
+@media  (min-width: 300px) and (max-width: 400px){
+  .stopwatch {
+    left:125%;
+  }
 }
 
