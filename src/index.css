@@ -131,31 +131,23 @@ Button:hover {
 
 @media  (min-width: 1200px){
   .stopwatch {
-    position: relative;
-    bottom:130px;
     left:66%;
   }
 }
 @media  (min-width: 600px) and (max-width: 800px){
   .stopwatch {
-    position: relative;
-    bottom:130px;
     left:80%;
   }
 }
 
 @media  (min-width: 400px) and (max-width: 600px){
   .stopwatch {
-    position: relative;
-    bottom:130px;
     left:105%;
   }
 }
 
 @media  (min-width: 300px) and (max-width: 400px){
   .stopwatch {
-    position: relative;
-    bottom:130px;
     left:125%;
   }
 }
