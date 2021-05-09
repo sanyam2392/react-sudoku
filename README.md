@@ -1,3 +1,3 @@
- Simple React Sudoku Game created using React
+ Simple Sudoku Game created using React js
 
 
